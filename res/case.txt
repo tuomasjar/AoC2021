@@ -1,0 +1,202 @@
+switch(latest){
+	case 1:
+		Day01 day1=new Day01();
+		System.out.println("Day +1:");
+		System.out.println("A: ");
+		day1.runA();
+		System.out.println("B: ");
+		day1.runB();
+		break;
+	case 2:
+		Day02 day2=new Day02();
+		System.out.println("Day +2:");
+		System.out.println("A: ");
+		day2.runA();
+		System.out.println("B: ");
+		day2.runB();
+		break;
+	case 3:
+		Day03 day3=new Day03();
+		System.out.println("Day +3:");
+		System.out.println("A: ");
+		day3.runA();
+		System.out.println("B: ");
+		day3.runB();
+		break;
+	case 4:
+		Day04 day4=new Day04();
+		System.out.println("Day +4:");
+		System.out.println("A: ");
+		day4.runA();
+		System.out.println("B: ");
+		day4.runB();
+		break;
+	case 5:
+		Day05 day5=new Day05();
+		System.out.println("Day +5:");
+		System.out.println("A: ");
+		day5.runA();
+		System.out.println("B: ");
+		day5.runB();
+		break;
+	case 6:
+		Day06 day6=new Day06();
+		System.out.println("Day +6:");
+		System.out.println("A: ");
+		day6.runA();
+		System.out.println("B: ");
+		day6.runB();
+		break;
+	case 7:
+		Day07 day7=new Day07();
+		System.out.println("Day +7:");
+		System.out.println("A: ");
+		day7.runA();
+		System.out.println("B: ");
+		day7.runB();
+		break;
+	case 8:
+		Day08 day8=new Day08();
+		System.out.println("Day +8:");
+		System.out.println("A: ");
+		day8.runA();
+		System.out.println("B: ");
+		day8.runB();
+		break;
+	case 9:
+		Day09 day9=new Day09();
+		System.out.println("Day +9:");
+		System.out.println("A: ");
+		day9.runA();
+		System.out.println("B: ");
+		day9.runB();
+		break;
+	case 10:
+		Day10 day10=new Day10();
+		System.out.println("Day +10:");
+		System.out.println("A: ");
+		day10.runA();
+		System.out.println("B: ");
+		day10.runB();
+		break;
+	case 11:
+		Day11 day11=new Day11();
+		System.out.println("Day +11:");
+		System.out.println("A: ");
+		day11.runA();
+		System.out.println("B: ");
+		day11.runB();
+		break;
+	case 12:
+		Day12 day12=new Day12();
+		System.out.println("Day +12:");
+		System.out.println("A: ");
+		day12.runA();
+		System.out.println("B: ");
+		day12.runB();
+		break;
+	case 13:
+		Day13 day13=new Day13();
+		System.out.println("Day +13:");
+		System.out.println("A: ");
+		day13.runA();
+		System.out.println("B: ");
+		day13.runB();
+		break;
+	case 14:
+		Day14 day14=new Day14();
+		System.out.println("Day +14:");
+		System.out.println("A: ");
+		day14.runA();
+		System.out.println("B: ");
+		day14.runB();
+		break;
+	case 15:
+		Day15 day15=new Day15();
+		System.out.println("Day +15:");
+		System.out.println("A: ");
+		day15.runA();
+		System.out.println("B: ");
+		day15.runB();
+		break;
+	case 16:
+		Day16 day16=new Day16();
+		System.out.println("Day +16:");
+		System.out.println("A: ");
+		day16.runA();
+		System.out.println("B: ");
+		day16.runB();
+		break;
+	case 17:
+		Day17 day17=new Day17();
+		System.out.println("Day +17:");
+		System.out.println("A: ");
+		day17.runA();
+		System.out.println("B: ");
+		day17.runB();
+		break;
+	case 18:
+		Day18 day18=new Day18();
+		System.out.println("Day +18:");
+		System.out.println("A: ");
+		day18.runA();
+		System.out.println("B: ");
+		day18.runB();
+		break;
+	case 19:
+		Day19 day19=new Day19();
+		System.out.println("Day +19:");
+		System.out.println("A: ");
+		day19.runA();
+		System.out.println("B: ");
+		day19.runB();
+		break;
+	case 20:
+		Day20 day20=new Day20();
+		System.out.println("Day +20:");
+		System.out.println("A: ");
+		day20.runA();
+		System.out.println("B: ");
+		day20.runB();
+		break;
+	case 21:
+		Day21 day21=new Day21();
+		System.out.println("Day +21:");
+		System.out.println("A: ");
+		day21.runA();
+		System.out.println("B: ");
+		day21.runB();
+		break;
+	case 22:
+		Day22 day22=new Day22();
+		System.out.println("Day +22:");
+		System.out.println("A: ");
+		day22.runA();
+		System.out.println("B: ");
+		day22.runB();
+		break;
+	case 23:
+		Day23 day23=new Day23();
+		System.out.println("Day +23:");
+		System.out.println("A: ");
+		day23.runA();
+		System.out.println("B: ");
+		day23.runB();
+		break;
+	case 24:
+		Day24 day24=new Day24();
+		System.out.println("Day +24:");
+		System.out.println("A: ");
+		day24.runA();
+		System.out.println("B: ");
+		day24.runB();
+		break;
+	case 25:
+		Day25 day25=new Day25();
+		System.out.println("Day +25:");
+		System.out.println("A: ");
+		day25.runA();
+		System.out.println("B: ");
+		day25.runB();
+		break;
+	}
